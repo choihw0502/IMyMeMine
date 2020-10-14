@@ -8,6 +8,7 @@ class IMyMeMineApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Commit Test !!");
 	}
 
 }
